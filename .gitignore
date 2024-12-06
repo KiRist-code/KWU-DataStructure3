@@ -1,0 +1,9 @@
+build/
+Testing/
+CMakeFiles/
+CMakeCache.txt
+*.cmake
+*.tcl
+Makefile
+.DS_Store
+.vscode/
